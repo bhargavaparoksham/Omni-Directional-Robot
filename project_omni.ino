@@ -1,5 +1,5 @@
 //Author: Bhargav Aparoksham
-// Does Basic line following on any given side.
+// Controlling an Omnidirectional robot
 
 
 int m1[2] = {2,3};  
